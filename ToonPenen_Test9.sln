@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test Oefening 1", "ToonPenen_Test9\Test Oefening 1.csproj", "{87318C94-BBFE-422F-A96B-FDE39C3B2700}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oef1", "oef1\oef1.csproj", "{8D0F0F0B-BAFE-4F30-BD9B-906335333C64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87318C94-BBFE-422F-A96B-FDE39C3B2700}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87318C94-BBFE-422F-A96B-FDE39C3B2700}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87318C94-BBFE-422F-A96B-FDE39C3B2700}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87318C94-BBFE-422F-A96B-FDE39C3B2700}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D0F0F0B-BAFE-4F30-BD9B-906335333C64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D0F0F0B-BAFE-4F30-BD9B-906335333C64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D0F0F0B-BAFE-4F30-BD9B-906335333C64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D0F0F0B-BAFE-4F30-BD9B-906335333C64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3AC8E8B-C221-4B48-8465-DF5886247EC0}
+	EndGlobalSection
+EndGlobal
